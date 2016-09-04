@@ -1,0 +1,5 @@
+Foram encontrados as seguintes inconsistências no arquivo: 
+Acadêmico não encontrado. Código do acadêmico: 220710. Linha: 1
+Detalhe da linha 4;220710;Thuany da Silva Medeiros;B;D;E;C;D;D;C;B;D;C;A;B;A;A;B;B;B;E;D;C;B;A;A;C;D
+Acadêmico não encontrado. Código do acadêmico: 217039. Linha: 30
+Detalhe da linha 4;217039;Marcela Meurer Muller;A;D;E;C;E;E;C;E;A;C;E;A;C;A;A;C;B;C;D;D;B;D;B;B;D
